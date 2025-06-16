@@ -1,46 +1,55 @@
-# Getting Started with Create React App
+# 📒 Projeto 5: Agenda de Contatos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Quinto projeto do curso da **EBAC**, desenvolvido por [DiegoNT1](https://github.com/DiegoNT1).
 
-## Available Scripts
+Este projeto é uma **agenda de contatos online**, desenvolvida com HTML, CSS e JavaScript. A aplicação permite ao usuário cadastrar, visualizar e remover contatos de forma simples e direta.
 
-In the project directory, you can run:
+🔗 **Visualize online:**  
+👉 [https://projeto-5-agendadecontatos.vercel.app](https://projeto-5-agendadecontatos.vercel.app)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📇 Funcionalidades
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- ➕ Adicionar contatos com nome, telefone e e-mail  
+- 🗑️ Remover contatos da lista  
+- 💾 Salvamento de dados no **LocalStorage**  
+- 🎨 Interface simples e funcional
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Tecnologias Utilizadas
 
-### `npm run build`
+- **HTML5** – estrutura da aplicação  
+- **CSS3** – estilização da interface  
+- **JavaScript** – lógica e interação com o LocalStorage  
+- **LocalStorage** – para persistência dos contatos no navegador
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📁 Estrutura do Projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+Projeto_5_AgendaDeContatos/
+├── css/
+│ └── style.css # Estilos visuais da aplicação
+├── js/
+│ └── script.js # Lógica para manipulação de contatos
+└── index.html # Página principal
+```
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧪 Como Usar Localmente
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+# 1. Clone este repositório
+git clone https://github.com/DiegoNT1/Projeto_2-Agenda_De_Contatos.git
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# 2. Acesse a pasta do projeto
+cd Projeto_2-Agenda_De_Contatos
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 3. Abra o arquivo index.html no seu navegador
+# Você pode usar http-server, Live Server do VSCode, ou simplesmente dar duplo clique no arquivo.
+```
