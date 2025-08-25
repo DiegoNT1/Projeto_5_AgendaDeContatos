@@ -5,7 +5,7 @@ Quinto projeto do curso da **EBAC**, desenvolvido por [DiegoNT1](https://github.
 Este projeto é uma **agenda de contatos online**, desenvolvida com HTML, CSS e JavaScript. A aplicação permite ao usuário cadastrar, visualizar e remover contatos de forma simples e direta.
 
 🔗 **Visualize online:**  
-👉 [https://projeto-5-agendadecontatos.vercel.app](https://projeto-5-agendadecontatos.vercel.app)
+👉 https://projeto-5-agenda-de-contatos.vercel.app/
 
 ---
 
